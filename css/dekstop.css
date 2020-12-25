@@ -1,0 +1,158 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;}
+
+    header {
+        display: flex;
+        width: 100%;
+        height: 30%;
+        background-color: cadetblue;
+    }
+
+    header figure{
+        display: flex;
+        width: 130px;
+        height: 130px;
+
+    }
+     
+     
+    
+
+    header img {
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+    header #menu {
+        justify-content: center;
+        margin-left: 160px;
+        margin-top: 20px;
+        margin-right: 15px;
+        font-size: 20px;
+        }
+
+        
+
+    header #MenSUP{
+        display: flex;
+        flex-direction: row;
+        margin-left: 10px;
+        margin-right: 10px;
+        
+    }
+
+    header #Desplegable{
+        display: none;
+    }
+    
+    header nav #Desplegable{
+        display: none;
+    }
+    
+
+
+    main {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        height: 55%;
+        justify-content: space-around;
+        
+    }
+    main img {
+        width: 40%;
+        height: 100%;
+    }
+     
+    .container{
+        width: 100%;
+        height: 50%;
+        display: flex;
+        flex-wrap: column nowrap;
+        justify-content: space-around;
+        margin: auto;
+        background-color: none;
+        
+    }
+    .container .card{
+        display: flex;
+        flex-flow: row wrap;
+        background-color: none;
+        justify-content: space-around;
+        margin-top: 20px;
+       
+    }
+    .container .card img{
+        width: 40%;
+        height: 100%;
+        background-color: none;
+    }
+    .container .card .datos{
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: flex-start;
+        background-color:none;
+        width: 50%;
+        height: 100%;
+        
+    }
+    .container .card .datos h1{
+        width: 100%;
+        height: 20%;
+        background-color: none;
+    }
+    .container .card .datos p{
+        width: 100%;
+        height: 30%;
+        background-color: none;
+        text-align: justify;
+        line-height: 1.3;
+        text-indent: .6cm;
+    }
+    .container .card .datos a{
+        transition: 1s all;
+    }
+
+    .container .card:hover a{
+        background-color: khaki;
+        font-size: 20px;}
+
+    .container .card .datos2{
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: flex-start;
+        background-color:none;
+        width: 50%;
+        height: 100%;}
+
+        .container .card .datos2 h1{
+            width: 100%;
+            height: 20%;
+            background-color: none;
+        }
+        .container .card .datos2 p{
+            width: 100%;
+            height: 30%;
+            background-color: none;
+            text-align: justify;
+            line-height: 1.3;
+            text-indent: .6cm;
+        }
+        .container .card .datos a{
+            transition: 1s all;
+        }
+
+    footer{
+        display: flex;
+        width: 100%;
+        height: 15%;
+        background-color: grey;
+        justify-content: flex-end;
+    }
+
+    
+    footer nav a i {
+        
+    }

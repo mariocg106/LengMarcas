@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;}
+
+    header {
+        display: flex;
+        width: 100%;
+        height: 30%;
+        background-color: cadetblue;
+    }
+
+    header figure{
+        display: flex;
+        width: 60px;
+        height: 60px;
+    }
+
+    header img {
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+    header #menu {
+        display: none;
+    }
+    
+    header nav #Desplegable{
+        
+    }
+    
+
+
+    main {
+        display: flex;
+        width: 100%;
+        height: 55%;
+        justify-content: space-around;
+        
+    }
+    main img {
+        width: 100%;
+        height: 100%;
+    }
+     
+    .container{
+        width: 100%;
+        height: 33.3%;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        margin: auto;
+    }
+    .container .card{
+        width: 90%;
+        height: 50%;
+        border-radius: 8px;
+        box-shadow: 1px 2px 2px 2px gray;
+        overflow: hidden;
+        text-align: center;
+        transition: all 0.25s;
+        display:flex;
+        flex-flow: column;
+        margin-bottom: 40px;
+        margin-left: 20px;
+        margin-left: 20px;
+    }
+
+
+    .container .card .datos2{
+        width: 60%;
+        height: 100%;
+        
+        text-align: center;
+        transition: all 0.25s;
+        display:flex;
+        flex-flow: column;
+        margin-bottom: 40px;
+        margin-left: 20px;
+        margin-left: 20px;
+        align-items: center;
+    }
+
+    
+    
+
+    .container .card:hover a{
+        background-color: rgb(255, 255, 255);
+        font-size: 20px;
+    }
+
+
+
+
+
+
+    footer{
+        display: flex;
+        width: 100%;
+        height: 50px;
+        background-color: grey;
+        justify-content: flex-end;
+    }
+
+    footer nav {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: space-around;
+        align-items: center;
+        width: 20%;
+        
+    }
+    footer nav a {
+        display: flex;
+        flex-flow: row nowrap;
+        font-size: 20px;
+        text-decoration: none;
+    }
+    
