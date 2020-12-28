@@ -25,17 +25,13 @@
         width: 100%;
         height: 100%;
     }
-    header #menu {
-        justify-content: center;
-        margin-left: 160px;
-        margin-top: 20px;
-        margin-right: 15px;
-        font-size: 20px;
+    header #ic {
+        display: none;
         }
 
         
 
-    header #MenSUP{
+    header #menu{
         display: flex;
         flex-direction: row;
         margin-left: 10px;
@@ -115,8 +111,8 @@
         transition: 1s all;
     }
 
-    .container .card:hover a{
-        background-color: khaki;
+    .container .card:hover {
+        background-color: rgb(255, 255, 255);
         font-size: 20px;}
 
     .container .card .datos2{
@@ -153,6 +149,4 @@
     }
 
     
-    footer nav a i {
-        
-    }
+    
