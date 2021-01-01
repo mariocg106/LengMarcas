@@ -34,7 +34,7 @@
     header #menu{
         display: flex;
         flex-direction: row;
-        margin-left: 10px;
+        margin-left: 180px;
         margin-right: 10px;
         
     }
@@ -46,6 +46,11 @@
     header nav #Desplegable{
         display: none;
     }
+
+    header h1{
+        font-family: "Arial Black";
+    }
+    
     
 
 

@@ -25,9 +25,7 @@
         display: none;
     }
     
-    header nav #Desplegable{
-        
-    }
+    
     
 
 
@@ -50,6 +48,7 @@
         flex-flow: column nowrap;
         justify-content: center;
         margin: auto;
+        margin-top: 10px;
     }
     .container .card{
         width: 90%;
