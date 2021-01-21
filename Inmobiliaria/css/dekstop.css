@@ -1,0 +1,121 @@
+header {
+    height: 200px;
+}
+
+header #top{
+    justify-content: space-between;
+    order:2;
+    width:30%
+}
+
+header #top span#open {
+    width: 35%;
+    order:0;
+    font-size: 20px;
+    background-color: none;
+    font-family: Unlock !important;
+}
+header #top nav#sociales {
+    width: 70%;
+    order:1;
+    justify-content: space-around;
+}
+header #top nav#sociales a{
+    width: 10%;
+    font-size: 25px;
+}
+header #top nav#user {
+    width:25%;
+    justify-content: center;
+    order:2;
+}
+header #top nav#user a#telefono{
+    display: none
+}
+
+header #bottom nav#menu a {
+   
+    font-size: 25px;
+    text-decoration: none;
+    font-family: Dosis;
+}
+
+header #main {
+    order:0;
+    width: 70%;
+}
+header #main figure{
+    width: 20%; 
+}
+header #bottom{
+    order:2;
+    width: 100%;
+    height: 50px;
+    justify-content: center;
+}
+header #bottom #address {
+    width: 20%;
+    display: none;;
+}
+header #bottom #contact {
+    width: 20%;
+    display: none;;
+}
+
+header #bottom nav#menu{
+    width: 60%;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    
+}
+header #bottom nav#menu a {
+    width: 20%;
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    text-align: center;
+}
+
+header #bottom nav#menu a i{
+    display: block;
+}
+header #bottom nav#menu a i.fa-angle-down{
+    display: none;
+}
+header #bottom nav#menu a span{
+}
+
+
+section {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: stretch;
+}
+section article {
+    width: 33%;
+    justify-content: space-between;
+
+}
+section article figure{
+    order:1;
+}
+section article  h4{
+    order:2;
+}
+section article .ref {
+    order:0;
+}
+section article .features{
+    order:3;
+    width:100%;
+    background-color:  rgba(0,0,0,.2);
+}
+
+section article figure img {
+   
+}
+section article:hover .features {
+    color: blue;
+}
