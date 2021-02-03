@@ -9,7 +9,7 @@ header {
     height: 20%;
     background-color: none;
     display: grid;
-    flex-direction: row;
+    
     justify-content: space-around;
     align-items: center;
     grid-template-columns: 75% 25% ;
@@ -41,15 +41,14 @@ header nav{
     order:0;
 }
 header nav#menu {
-    display: none;
+    
  }
 
 header nav#menu i  {
-   display: none;
+  
 }
-header nav#menu a  {
-    display: none;
- }
+header nav#menu a  {}
+    
 
 header nav a i:hover {
     color:red;
@@ -70,6 +69,7 @@ header nav i{
 }
 
 header div#registro {
+    display: none;
     width: 100%;
     height: 100%;
     background-color: cornflowerblue;
