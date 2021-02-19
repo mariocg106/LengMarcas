@@ -1,0 +1,16 @@
+ls
+php -v
+php -v
+cd libreria\ap
+
+cd libreria\apilibreria
+cd apilibreria
+composer -V
+composer require slim/slim:"4.*"
+composer require slim/psr7
+composer dump-autoload
+composer update
+composer --version
+composer require laminas/laminas-diactoros
+composer require nyholm/psr7 nyholm/psr7-server
+composer require guzzlehttp/psr7 http-interop/http-factory-guzzle

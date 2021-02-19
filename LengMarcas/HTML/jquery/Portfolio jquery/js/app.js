@@ -5,7 +5,7 @@ let doc = $(document);
     function iniciar() {
         console.log('documento iniciado'); 
         $("main").load("html/home.html")
-        let opcion = $("header #header-content nav a").on('click', mostrarMenu);
+        let opcion = $("header #menu nav a").on('click', mostrarMenu);
         let home = $("header #home").on('click', mostrarMenu)
         let navicon = $("header #navicon").on('click', mostrarNavPrincipal)
 
@@ -17,7 +17,7 @@ let doc = $(document);
         let id = $(this).attr('id');
         console.log(id);
         let ruta = "html/"+id+".html";
-        $("header #header-content nav a").removeClass("active");
+        $("header #menu nav").removeClass("active");
         $(this).siblings().removeClass("active");
         $(this).addClass('active')
         console.log(ruta);

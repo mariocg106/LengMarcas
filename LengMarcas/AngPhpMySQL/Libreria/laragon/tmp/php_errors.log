@@ -1,0 +1,296 @@
+[09-Feb-2021 09:49:32 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 09:49:53 UTC] PHP Warning:  Use of undefined constant _DIR_ - assumed '_DIR_' (this will throw an Error in a future version of PHP) in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 09:49:53 UTC] PHP Warning:  require(_DIR_/../src/App/app.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 09:49:53 UTC] PHP Fatal error:  require(): Failed opening required '_DIR_/../src/App/app.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 09:49:56 UTC] PHP Warning:  Use of undefined constant _DIR_ - assumed '_DIR_' (this will throw an Error in a future version of PHP) in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 09:49:56 UTC] PHP Warning:  require(_DIR_/../src/App/app.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 09:49:56 UTC] PHP Fatal error:  require(): Failed opening required '_DIR_/../src/App/app.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 09:50:15 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 10:01:39 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 10:01:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 10:01:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 10:01:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 10:01:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 10:01:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 10:45:50 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 10:56:46 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 10:56:46 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 10:56:47 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 10:56:47 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 10:56:49 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 11:01:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 11:01:41 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 11:01:49 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 11:02:06 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\inex.php on line 3
+[09-Feb-2021 11:02:26 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\index.php on line 3
+[09-Feb-2021 11:02:27 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\index.php on line 3
+[09-Feb-2021 11:13:03 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\index.php on line 3
+[09-Feb-2021 11:13:04 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\index.php on line 3
+[09-Feb-2021 11:13:04 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\laragon\www\libreria\apilibreria\public\index.php on line 3
+[09-Feb-2021 11:13:15 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 14
+[09-Feb-2021 11:14:32 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 14
+[09-Feb-2021 11:14:53 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 14
+[09-Feb-2021 11:28:21 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[09-Feb-2021 11:28:22 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[09-Feb-2021 11:28:23 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[09-Feb-2021 11:28:34 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[09-Feb-2021 11:28:35 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[09-Feb-2021 11:28:35 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[09-Feb-2021 11:28:41 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 18
+[10-Feb-2021 09:10:16 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[10-Feb-2021 09:10:16 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[10-Feb-2021 09:27:35 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[10-Feb-2021 09:27:35 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[10-Feb-2021 09:32:30 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[10-Feb-2021 09:32:30 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[10-Feb-2021 09:37:09 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[10-Feb-2021 09:37:09 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 15
+[16-Feb-2021 10:45:27 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[16-Feb-2021 10:45:27 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[16-Feb-2021 10:48:26 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[16-Feb-2021 10:48:26 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[16-Feb-2021 10:48:40 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[16-Feb-2021 10:48:40 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[16-Feb-2021 11:12:16 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:19:55 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 14
+[17-Feb-2021 09:19:55 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 14
+[17-Feb-2021 09:44:27 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 14
+[17-Feb-2021 09:44:27 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 14
+[17-Feb-2021 09:44:31 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 14
+[17-Feb-2021 09:44:31 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 14
+[17-Feb-2021 09:48:23 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:48:23 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:48:24 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:48:24 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:48:24 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:48:24 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:49:23 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:49:23 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:49:24 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:49:24 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:49:24 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:49:24 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 13
+[17-Feb-2021 09:49:55 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:49:55 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:49:55 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:49:55 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:50:25 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:50:25 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:50:25 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:50:25 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:50:25 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:50:25 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:50:25 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:50:25 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:50:25 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:50:25 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:50:25 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:50:25 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:51:02 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:51:02 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:51:02 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:51:02 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:51:13 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:51:13 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:53:59 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:54:00 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:54:00 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:54:00 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:54:00 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:54:00 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:54:00 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:54:00 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:54:00 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:54:00 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:54:00 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:54:00 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:57:18 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/App/Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:57:18 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/App/Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:57:18 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/App/Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 09:57:18 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/App/Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 10
+[17-Feb-2021 10:02:42 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[17-Feb-2021 10:02:42 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[17-Feb-2021 10:02:42 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[17-Feb-2021 10:02:42 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[17-Feb-2021 10:02:43 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[17-Feb-2021 10:02:43 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[17-Feb-2021 10:02:43 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[17-Feb-2021 10:02:43 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[18-Feb-2021 12:37:45 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[18-Feb-2021 12:37:45 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[18-Feb-2021 13:15:19 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App../../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[18-Feb-2021 13:15:19 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App../../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[18-Feb-2021 13:18:46 UTC] PHP Warning:  require(C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php): failed to open stream: No such file or directory in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[18-Feb-2021 13:18:46 UTC] PHP Fatal error:  require(): Failed opening required 'C:\laragon\www\libreria\apilibreria\src\App/../Routes/libros.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 12
+[18-Feb-2021 13:20:53 UTC] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 91
+Trace: #0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(58): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(147): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(107): class@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(147): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(class@anonymous))
+#4 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): class@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\laragon\www\libreria\apilibreria\src\App\app.php(15): Slim\App->run()
+#8 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#9 {main}
+[18-Feb-2021 13:21:22 UTC] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 91
+Trace: #0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php(58): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(147): Slim\Middleware\RoutingMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(107): class@anonymous->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(147): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(class@anonymous))
+#4 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): class@anonymous->handle(Object(Slim\Psr7\Request))
+#5 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#6 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#7 C:\laragon\www\libreria\apilibreria\src\App\app.php(15): Slim\App->run()
+#8 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#9 {main}
+[18-Feb-2021 13:24:29 UTC] PHP Parse error:  syntax error, unexpected '*', expecting end of file in C:\laragon\www\libreria\apilibreria\src\App\app.php on line 21
+[18-Feb-2021 13:24:39 UTC] 404 Not Found
+Type: Slim\Exception\HttpNotFoundException
+Code: 404
+Message: Not found.
+File: C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php
+Line: 91
+Trace: #0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\ErrorMiddleware.php(107): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(147): Slim\Middleware\ErrorMiddleware->process(Object(Slim\Psr7\Request), Object(Slim\Routing\RouteRunner))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): class@anonymous->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#5 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#6 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#7 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#8 {main}
+[18-Feb-2021 13:25:37 UTC] PHP Fatal error:  Uncaught Slim\Exception\HttpNotFoundException: Not found. in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php:91
+Stack trace:
+#0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#5 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php on line 91
+[18-Feb-2021 13:26:03 UTC] PHP Fatal error:  Uncaught Slim\Exception\HttpNotFoundException: Not found. in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php:91
+Stack trace:
+#0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#5 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php on line 91
+[18-Feb-2021 13:27:17 UTC] PHP Fatal error:  Uncaught Slim\Exception\HttpNotFoundException: Not found. in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php:91
+Stack trace:
+#0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#5 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php on line 91
+[18-Feb-2021 13:27:57 UTC] PHP Fatal error:  Uncaught Slim\Exception\HttpNotFoundException: Not found. in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php:91
+Stack trace:
+#0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#5 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php on line 91
+[18-Feb-2021 13:29:03 UTC] PHP Fatal error:  Uncaught Slim\Exception\HttpNotFoundException: Not found. in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php:91
+Stack trace:
+#0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#5 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php on line 91
+[18-Feb-2021 13:29:04 UTC] PHP Fatal error:  Uncaught Slim\Exception\HttpNotFoundException: Not found. in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php:91
+Stack trace:
+#0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#5 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php on line 91
+[18-Feb-2021 13:30:12 UTC] PHP Fatal error:  Uncaught Slim\Exception\HttpNotFoundException: Not found. in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php:91
+Stack trace:
+#0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#5 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php on line 91
+[18-Feb-2021 13:31:40 UTC] PHP Fatal error:  Uncaught Slim\Exception\HttpNotFoundException: Not found. in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php:91
+Stack trace:
+#0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#5 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php on line 91
+[18-Feb-2021 13:32:17 UTC] PHP Fatal error:  Uncaught Slim\Exception\HttpNotFoundException: Not found. in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php:91
+Stack trace:
+#0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#5 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php on line 91
+[18-Feb-2021 13:34:04 UTC] PHP Fatal error:  Uncaught Slim\Exception\HttpNotFoundException: Not found. in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php:91
+Stack trace:
+#0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#5 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php on line 91
+[18-Feb-2021 13:34:46 UTC] PHP Fatal error:  Uncaught Slim\Exception\HttpNotFoundException: Not found. in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php:91
+Stack trace:
+#0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#5 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php on line 91
+[18-Feb-2021 13:34:58 UTC] PHP Fatal error:  Uncaught Slim\Exception\HttpNotFoundException: Not found. in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php:91
+Stack trace:
+#0 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Routing\RouteRunner.php(72): Slim\Middleware\RoutingMiddleware->performRouting(Object(Slim\Psr7\Request))
+#1 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\MiddlewareDispatcher.php(81): Slim\Routing\RouteRunner->handle(Object(Slim\Psr7\Request))
+#2 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(215): Slim\MiddlewareDispatcher->handle(Object(Slim\Psr7\Request))
+#3 C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\App.php(199): Slim\App->handle(Object(Slim\Psr7\Request))
+#4 C:\laragon\www\libreria\apilibreria\src\App\app.php(19): Slim\App->run()
+#5 C:\laragon\www\libreria\apilibreria\public\index.php(3): require('C:\\laragon\\www\\...')
+#6 {main}
+  thrown in C:\laragon\www\libreria\apilibreria\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php on line 91
+[18-Feb-2021 13:35:18 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) in C:\laragon\www\libreria\apilibreria\src\controllers\LibrosController.php on line 3
+[18-Feb-2021 13:35:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) in C:\laragon\www\libreria\apilibreria\src\controllers\LibrosController.php on line 3
+[18-Feb-2021 13:35:45 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in C:\laragon\www\libreria\apilibreria\src\controllers\LibrosController.php on line 18
+[18-Feb-2021 13:36:03 UTC] PHP Parse error:  syntax error, unexpected 'conexionDB' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in C:\laragon\www\libreria\apilibreria\src\Model\LibrosModel.php on line 8
