@@ -19,5 +19,10 @@ class LibrosController{
         ->withStatus(200); 
  }   
 
+ public function getFilter(Request  $request, Response $response, $args){
+     $parametros = $request->getQueryParams();
+     var_dump($parametros);
+ }
+
 
 }
