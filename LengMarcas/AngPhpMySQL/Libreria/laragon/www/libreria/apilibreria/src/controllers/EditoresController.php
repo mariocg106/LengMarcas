@@ -9,7 +9,7 @@ use App\Model\EditoresModel;
 class EditoresController{
     
  public function getAll(Request  $request, Response $response, $args){
-     echo "Listado de Editores";
+     echo "Listado de EditoresDDD";
      
      $Editores = EditoresModel::getAll();
      $Editores_JSON = json_encode($Editores);

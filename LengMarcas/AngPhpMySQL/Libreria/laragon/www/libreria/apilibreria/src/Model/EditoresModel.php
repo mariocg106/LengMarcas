@@ -14,6 +14,6 @@ class EditoresModel {
         $sql = "SELECT * from editores";
         $data =EditoresModel::$DB->run($sql, []);
         return $data->fetchAll();
-        //var_dump ($data->fetchAll());
+        var_dump ($data->fetchAll());
     }
 }

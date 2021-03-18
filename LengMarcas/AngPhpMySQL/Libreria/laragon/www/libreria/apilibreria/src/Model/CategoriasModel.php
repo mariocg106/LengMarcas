@@ -14,6 +14,6 @@ class CategoriasModel {
         $sql = "SELECT * from Categorias";
         $data =CategoriasModel::$DB->run($sql, []);
         return $data->fetchAll();
-        //var_dump ($data->fetchAll());
+        var_dump ($data->fetchAll());
     }
 }
