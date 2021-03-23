@@ -3,9 +3,9 @@
     use Psr\Http\Message\ResponseInterface as Response;
     use Psr\Http\Message\ServerRequestInterface as Request;
 #use App\Controllers\BaseController;
-    use App\Model\mcgUsuariosModel;    
+    use App\Model\mcgPerfilesModel;    
 
-    class mcgUsuariosController {
+    class mcgPerfilesController {
         
         public function new(Request $request, Response $response, $args){
             $parametros = $request->getParsedBody();
@@ -16,7 +16,7 @@
            $foto = $parametros['foto'];
            $userid = (int)$parametros['userid'];
            $valores = array($perfilid, $email, $face, $insta, $foto, $userid);
-           $result = mcgUsuariosModel::new($valores);
+           $result = mcgPerfilesModel::new($valores);
            $resultJson = json_encode($result);
             return $response
 
