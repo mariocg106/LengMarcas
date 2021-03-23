@@ -31,17 +31,6 @@
                 ->withHeader('Content-Type', 'application/json')
                 ->withStatus(200);
         }
-        public function mcggetFilter(Request $request, Response $response, $args){
-            $parametros = $request->mcggetQueryParams();
-            $nombrecategoria = $parametros['nombre_categoria'];
-            $precio = (int) $parametros['precio'];
-            $valores = array($uid);
-            $Libros = mcgDetallepedidosModel::mcggetFilter($valores);
-            $LibrosJson = json_encode($Detallepedidos);
-            $response->mcggetBody()->write($DetallepedidosJson);
-            return $response
-                ->withHeader('Content-Type', 'application/json')
-                ->withStatus(200);
-        }
+        
 
     }

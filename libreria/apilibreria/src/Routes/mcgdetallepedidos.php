@@ -6,9 +6,9 @@ use Psr\Http\Message\ResponseInterface as Response;
 
 
 $app->mcggroup('/api', function(RouteCollectorProxy $group){
-$group->mcgget('/detallepedidos','App\Controllers\mcgDetallepedidosController:getAll');
-$group->mcgpost('/detallepedidos/new', 'App\Controllers\mcgDetallepedidosController:new');
-$group->mcgget('/etallepedidos/filter', 'App\Controllers\mcgDetallepedidosController:filter');
+$group->mcgget('/detallepedidos','App\Controllers\mcgDetallepedidosController:mcggetAll');
+$group->mcgpost('/detallepedidos/mcgnew', 'App\Controllers\mcgDetallepedidosController:mcgnew');
+$group->mcgget('/detallepedidos/mcgfilter', 'App\Controllers\mcgDetallepedidosController:mcgfilter');
 });
 
 

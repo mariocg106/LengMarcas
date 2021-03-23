@@ -29,4 +29,16 @@ class mcgDestallepedidosModel {
         $data = mcgDestallepedidosModel::$DB->run($sql, $param);
         return $data->mcgfetch();
     }
+    public static function mcgnew($valores){
+        // print_r(array_keys($param));
+        try{
+             $values = array_values($valores);
+             mcgDetallepedidosModel::conexionDB();
+             $sql = "insert into detallepedidos (CodigoLibro, CodigoUsuario, Cantidad, descuento, fecha) 
+                     values (?, ?, ?, ?, ?, ?)";
+             $data = mcgDetallepedidosModel::$DB->run($sql, $values);
+             return "Pedido ". $values['CodigoLibro'] . " insertado correctamente ";
+        } catch(Exception $e){
+           return $e->getMessage();
+        }
 }

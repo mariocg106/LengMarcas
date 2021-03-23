@@ -17,6 +17,7 @@ require __DIR__ . '/../Routes/mcglibros.php';
 require __DIR__ . '/../Routes/mcgCategorias.php';
 require __DIR__ . '/../Routes/mcgUsuarios.php';
 require __DIR__ . '/../Routes/mcgEditores.php';
+require __DIR__ . '/../Routes/mcgdetallepedidos.php';
 $app->run();
 
 
