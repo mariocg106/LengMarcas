@@ -19,7 +19,7 @@ class mcgPerfilesModel {
              $sql = "insert into Perfiles (perfilid, email, facebook, instagram, foto, userid) 
                      values (?, ?, ?, ?, ?, ?)";
              $data = mcgPerfilesModel::$DB->run($sql, $values);
-             return "Perfil ". $values['nombre'] . " insertado correctamente ";
+             return "Perfil ". $values['perfilid'] . " insertado correctamente ";
         } catch(Exception $e){
            return $e->getMessage();
         }
