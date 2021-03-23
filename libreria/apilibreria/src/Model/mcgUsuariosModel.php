@@ -11,7 +11,7 @@ class mcgUsuariosModel {
     public static function conexionDB(){
         mcgUsuariosModel::$DB = new DB();
     }
-    public static function mcgnew($valores){
+    public static function new($valores){
         // print_r(array_keys($param));
         try{
              $values = array_values($valores);
@@ -21,26 +21,26 @@ class mcgUsuariosModel {
              $data = mcgUsuariosModel::$DB->run($sql, $values);
              return "Usuario ". $values['nombre'] . " insertado correctamente ";
         } catch(Exception $e){
-           return $e->mcggetMessage();
+           return $e->getMessage();
         }
     }
-    public static function mcggetFilter($param){
+    public static function getFilter($param){
         mcgUsuariosModel::conexionDB();
         $sql = "Select * from libros where usuarioid = ?"
         $data = mcgUsuariosModel::$DB->run($sql, $param);
-        return $data->mcgfetchAll();
+        return $data->fetchAll();
     }
 
-    public static function mcggetAll(){
+    public static function getAll(){
         mcgUsuariosModel::conexionDB();
         $sql = "Select * from usuarios";
         $data = mcgUsuariosModel::$DB->run($sql, []);
-        return $data->mcgfetchAll();
+        return $data->fetchAll();
     }
-    public static function mcgshow($param){
+    public static function show($param){
         mcgUsuariosModel::conexionDB();
         $sql = 'SELECT * from Usuarios where Usuario_id = ?';
         $data = mcgUsuariosModel::$DB->run($sql, $param);
-        return $data->mcgfetch();
+        return $data->fetch();
     }
 }

@@ -9,11 +9,11 @@ class mcgEditoresModel {
         mcgEditoresModel::$DB = new DB();
     }
 
-    public static function mcggetAll(){
+    public static function getAll(){
         mcgEditoresModel::conexionDB();
         $sql = "SELECT * from editores";
         $data =mcgEditoresModel::$DB->run($sql, []);
-        return $data->mcgfetchAll();
-        var_dump ($data->mcgfetchAll());
+        return $data->fetchAll();
+        var_dump ($data->fetchAll());
     }
 }

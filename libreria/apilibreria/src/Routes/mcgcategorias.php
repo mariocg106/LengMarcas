@@ -6,6 +6,6 @@ use Psr\Http\Message\ResponseInterface as Response;
 
 
 
-$app->mcgget('/api/categorias','App\controllers\mcgCategoriasController:mcggetAll');
+$app->get('/api/categorias','App\controllers\mcgCategoriasController:getAll');
 
 

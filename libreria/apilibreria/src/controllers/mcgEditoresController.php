@@ -8,11 +8,11 @@ use App\Model\mcgEditoresModel;
 
 class mcgEditoresController{
     
- public function mcggetAll(Request  $request, Response $response, $args){
+ public function getAll(Request  $request, Response $response, $args){
      echo "Listado de Editoreddds"; 
-     $Editores = mcgEditoresModel::mcggetAll();
+     $Editores = mcgEditoresModel::getAll();
      $Editores_JSON = json_encode($Editores);
-     $response->mcggetBody()->write($Editores_JSON);
+     $response->getBody()->write($Editores_JSON);
      return $response
         ->withHeader('Content-Type','application/json')
         ->withStatus(200); 

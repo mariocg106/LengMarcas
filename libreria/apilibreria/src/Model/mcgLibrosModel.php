@@ -11,22 +11,22 @@ class mcgLibrosModel {
     public static function conexionDB(){
         mcgLibrosModel::$DB = new DB();
     }
-    public static function mcggetFilter($param){
+    public static function getFilter($param){
         mcgLibrosModel::conexionDB();
         $sql = "Select * from libros natural join categorias where categoria = ? and precio > ?"
         $data = mcgLibrosModel::$DB->run($sql, $param);
-        return $data->mcgfetchAll();}
+        return $data->fetchAll();}
 
-    public static function mcggetAll(){
+    public static function getAll(){
         mcgLibrosModel::conexionDB();
         $sql = "Select * from libros";
         $data = mcgLibrosModel::$DB->run($sql, []);
-        return $data->mcgfetchAll();
+        return $data->fetchAll();
     }
-    public static function mcgshow($param){
+    public static function show($param){
         mcgLibrosModel::conexionDB();
         $sql = 'SELECT * from libros where libro_id = ?';
         $data = mcgLibrosModel::$DB->run($sql, $param);
-        return $data->mcgfetch();
+        return $data->fetch();
     }
 }
