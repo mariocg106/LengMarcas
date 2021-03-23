@@ -5,10 +5,10 @@ use Psr\Http\Message\ServerRequestInterface as Request;
 use Psr\Http\Message\ResponseInterface as Response;
 
 
-$app->mcggroup('/api', function(RouteCollectorProxy $group){
-$group->mcgget('/detallepedidos','App\Controllers\mcgDetallepedidosController:mcggetAll');
-$group->mcgpost('/detallepedidos/mcgnew', 'App\Controllers\mcgDetallepedidosController:mcgnew');
-$group->mcgget('/detallepedidos/mcgfilter', 'App\Controllers\mcgDetallepedidosController:mcgfilter');
+$app->group('/api', function(RouteCollectorProxy $group){
+$group->get('/detallepedidos','App\Controllers\mcgDetallepedidosController:mcggetAll');
+$group->post('/detallepedidos/mcgnew', 'App\Controllers\mcgDetallepedidosController:mcgnew');
+$group->get('/detallepedidos/mcgfilter', 'App\Controllers\mcgDetallepedidosController:mcgfilter');
 });
 
 
