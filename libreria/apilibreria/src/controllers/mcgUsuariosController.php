@@ -7,8 +7,8 @@
 
     class mcgUsuariosController {
         
-        public function new(Request $request, Response $response, $args){
-            $parametros = $request->getParsedBody();
+        public function mcgnew(Request $request, Response $response, $args){
+            $parametros = $request->mcggetParsedBody();
            $uid = (int)$parametros['usuarioid'];
            $nombre = $parametros['nombre'];
            $apellidos = $parametros['apellidos'];
@@ -16,28 +16,28 @@
            $ciudad = $parametros['ciudad'];
            $anionac = (int)$parametros['anionac'];
            $valores = array($uid, $nombre, $apellidos, $direccion, $ciudad, $anionac);
-           $result = mcgUsuariosModel::new($valores);
+           $result = mcgUsuariosModel::mcgnew($valores);
            $resultJson = json_encode($result);
             return $response
 
                 ->withHeader('Content-Type', 'application/json')
                 ->withStatus(200);
         }
-        public function getAll($request, $response, $args){
-            $Usuarios = mcgUsuariosModel::getAll();
+        public function mcggetAll($request, $response, $args){
+            $Usuarios = mcgUsuariosModel::mcggetAll();
             $UsuariosJson = json_encode($Usuarios);
-            $response->getBody()->write($UsuariosJson);
+            $response->mcggetBody()->write($UsuariosJson);
             return $response
                 ->withHeader('Content-Type', 'application/json')
                 ->withStatus(200);
         }
-        public function getFilter(Request $request, Response $response, $args){
-            $parametros = $request->getQueryParams();
+        public function mcggetFilter(Request $request, Response $response, $args){
+            $parametros = $request->mcggetQueryParams();
             $uid = (int)$parametros['usuarioid'];
             $valores = array($uid);
-            $Usuarios = mcgUsuariosModel::getFilter($valores);
+            $Usuarios = mcgUsuariosModel::mcggetFilter($valores);
             $UsuariosJson = json_encode($Usuarios);
-            $response->getBody()->write($UsuariosJson);
+            $response->mcggetBody()->write($UsuariosJson);
             return $response
                 ->withHeader('Content-Type', 'application/json')
                 ->withStatus(200);

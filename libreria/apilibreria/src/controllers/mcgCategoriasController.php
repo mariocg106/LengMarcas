@@ -8,12 +8,12 @@ use App\Model\mcgCategoriasModel;
 
 class mcgCategoriasController{
     
- public function getAll(Request  $request, Response $response, $args){
+ public function mcggetAll(Request  $request, Response $response, $args){
      echo "Listado de Categorias";
      
-     $Categorias = mcgCategoriasModel::getAll();
+     $Categorias = mcgCategoriasModel::mcggetAll();
      $Categorias_JSON = json_encode($Categorias);
-     $response->getBody()->write($Categorias_JSON);
+     $response->mcggetBody()->write($Categorias_JSON);
      return $response
         ->withHeader('Content-Type','application/json')
         ->withStatus(200); 

@@ -7,9 +7,9 @@
 
     class mcgLibrosController {
         
-        public function new(Request $request, Response $response, $args){
-            $response->getBody()->write("Insertar un nuevo Libro");
-            $parametros = $request->getParsedBody();
+        public function mcgnew(Request $request, Response $response, $args){
+            $response->mcggetBody()->write("Insertar un nuevo Libro");
+            $parametros = $request->mcggetParsedBody();
            $libroid = (int)$parametros['libro_id'];
            $nombre = $parametros['nombre_libro'];
            $precio = $parametros['precio'];
@@ -20,29 +20,29 @@
            $descripcion = $parametros['descripcion'];
            $categoriaid = $parametros['categoriaid'];
            $valores = array($libroid, $nombre, $precio, $stock, $imagen, $entrega, $editorid, $descripcion, $categoriaid);
-           $result = mcgLibrosModel::new($valores);
+           $result = mcgLibrosModel::mcgnew($valores);
            $resultJson = json_encode($result);
             return $response
 
                 ->withHeader('Content-Type', 'application/json')
                 ->withStatus(200);
         }
-        public function getAll($request, $response, $args){
-            $libros = mcgLibrosModel::getAll();
+        public function mcggetAll($request, $response, $args){
+            $libros = mcgLibrosModel::mcggetAll();
             $librosJson = json_encode($libros);
-            $response->getBody()->write($librosJson);
+            $response->mcggetBody()->write($librosJson);
             return $response
                 ->withHeader('Content-Type', 'application/json')
                 ->withStatus(200);
         }
-        public function getFilter(Request $request, Response $response, $args){
-            $parametros = $request->getQueryParams();
+        public function mcggetFilter(Request $request, Response $response, $args){
+            $parametros = $request->mcggetQueryParams();
             $nombrecategoria = $parametros['nombre_categoria'];
             $precio = (int) $parametros['precio'];
             $valores = array($uid);
-            $Libros = mcgLibrosModel::getFilter($valores);
+            $Libros = mcgLibrosModel::mcggetFilter($valores);
             $LibrosJson = json_encode($Libros);
-            $response->getBody()->write($LibrosJson);
+            $response->mcggetBody()->write($LibrosJson);
             return $response
                 ->withHeader('Content-Type', 'application/json')
                 ->withStatus(200);

@@ -9,11 +9,11 @@ class mcgCategoriasModel {
         mcgCategoriasModel::$DB = new DB();
     }
 
-    public static function getAll(){
+    public static function mcggetAll(){
         mcgCategoriasModel::conexionDB();
         $sql = "SELECT * from Categorias";
         $data =mcgCategoriasModel::$DB->run($sql, []);
-        return $data->fetchAll();
-        var_dump ($data->fetchAll());
+        return $data->mcgfetchAll();
+        var_dump ($data->mcgfetchAll());
     }
 }

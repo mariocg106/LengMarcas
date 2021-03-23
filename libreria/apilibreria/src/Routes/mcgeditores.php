@@ -6,4 +6,4 @@ use Psr\Http\Message\ResponseInterface as Response;
 
 
 
-$app->get('/api/editores','App\controllers\mcgEditoresController:getAll');
+$app->mcgget('/api/editores','App\controllers\mcgEditoresController:mcggetAll');
