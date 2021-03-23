@@ -2,17 +2,17 @@
 namespace App\Model;
 use App\Config\DB;
 
-class LibrosModel {
+class mcgCategoriasModel {
     private static $DB;
 
     public static function conexionDB(){
-        LibrosModel::$DB = new DB();
+        mcgCategoriasModel::$DB = new DB();
     }
 
     public static function getAll(){
-        LibrosModel::conexionDB();
-        $sql = "SELECT * from libros";
-        $data =LibrosModel::$DB->run($sql, []);
+        mcgCategoriasModel::conexionDB();
+        $sql = "SELECT * from Categorias";
+        $data =mcgCategoriasModel::$DB->run($sql, []);
         return $data->fetchAll();
         var_dump ($data->fetchAll());
     }

@@ -1,7 +1,7 @@
 <?php
 namespace App\Config;
 use \PDO;
-use App\Config\Config;
+use App\Config\config;
 
 class DB {
     protected $pdo;
@@ -28,4 +28,8 @@ class DB {
             $data = $this->pdo->query($sql);
             return $data;
         }
-    
+        $sentencia = $this->pdo->prepare($sql);
+        $sentencia->execute($args);
+        return $sentencia;
+    }
+    }

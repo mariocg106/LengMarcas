@@ -6,7 +6,4 @@ use Psr\Http\Message\ResponseInterface as Response;
 
 
 
-$app->get('/api/libros','App\controllers\LibrosController:getAll');
-
-//$app->get('/api/libros/new','App\controllers\LibrosController:new');
-
+$app->get('/api/editores','App\controllers\mcgEditoresController:getAll');

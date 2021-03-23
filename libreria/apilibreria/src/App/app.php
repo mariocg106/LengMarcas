@@ -13,9 +13,10 @@ $app = AppFactory::create();
 //$app->addRoutingMiddleware();
 //$errorMidleware = $app->addErrorMiddleware(true, true, true);
 
-require __DIR__ . '/../Routes/libros.php';
-
-
+require __DIR__ . '/../Routes/mcglibros.php';
+require __DIR__ . '/../Routes/mcgCategorias.php';
+require __DIR__ . '/../Routes/mcgUsuarios.php';
+require __DIR__ . '/../Routes/mcgEditores.php';
 $app->run();
 
 
